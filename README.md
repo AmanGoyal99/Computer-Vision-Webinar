@@ -1,6 +1,8 @@
 # ComputerVision-Webinar
 This repository contains all the slides and code which was presented and explained by me during all the webinars conducted.
 
+Following are the links to all the slides of the webinars conducted : 
+
 | Date | Topic | Link |
 | :---: | :---: | :---: |
 |  04/04/2020 | CNN | http://bit.ly/DLQCNN  |  
